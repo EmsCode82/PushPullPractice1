@@ -1,3 +1,4 @@
 create a repository
 get files stored in the repository
 connect the local and remote repositories
+synchronize the local and remote repositories
